@@ -1,4 +1,4 @@
 mib.mailtemplates
 =================
 
-Mail templates for MIB
+DEAD PROJECT - KICK ME
